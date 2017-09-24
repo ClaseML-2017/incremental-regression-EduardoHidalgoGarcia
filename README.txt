@@ -1,0 +1,1 @@
+El archivo contiene el notebook con el analisis de regresión ajustando los pesos con el método visto en clase (basado en el error de predicción), mismo que subí en la respuesta de la tarea anterior
